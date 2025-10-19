@@ -1,4 +1,4 @@
-
+.idea
 __pycache__/
 .venv/
 .env
@@ -10,4 +10,3 @@ dist/
 build/
 htmlcov/
 coverage.xml
-EVIDENCE/
